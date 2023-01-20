@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.holder{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+.questions{
+flex-shrink: 0;
+}
